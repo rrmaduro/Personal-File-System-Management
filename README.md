@@ -136,7 +136,7 @@ Key implementation principles followed:
 - **Unit Testing**:
   - All classes implementing atomic operations and metrics calculations had unit tests.
 
-## 4. Documentation and Report
+## 4. Documentation 
 
 ### 4.1 Documentation
 
